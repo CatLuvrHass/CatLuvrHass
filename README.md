@@ -1,4 +1,4 @@
-### Hi there 👋 Here is what I'm working on!
+### Hi there 👋
 
 - 🔭 I’m currently working on ... Masters Project with Django, Google Maps API, Historical Data Analytics.
 - 🌱 I’m currently learning ... More JavaScript. Hopefully Vue.js soon
