@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... finding the right oppertunity, my next step :rocket:
+- 🔭 I’m currently working on ... finding the right opportunity, my next step :rocket:
 - 🌱 I’m currently learning ... Cloud computing.
 - 🤔 I’m curious about ... what makes a great Engineer?
 - 💬 Ask me about ... Anything
