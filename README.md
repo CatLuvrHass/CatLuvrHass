@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Hassan Albujasim. 
-##### I am a developer based in Dublin, Ireland. Currenctly working at Guidewire Software
+I am a developer based in Dublin, Ireland. Currenctly working at Guidewire Software
 
 - 🔭 I’m currently working on ... Marathon training for Irish Life Dublin marathon 2023
 - 🌱 I’m currently learning ... Cloud computing.
